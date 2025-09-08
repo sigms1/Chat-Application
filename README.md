@@ -92,7 +92,7 @@ npm run lint
 
 ## 📸 Screenshot
 
-<img src="src/assets/Project.png" width="900">
+<img src="frontend/src/assets/Project.png" width="900">
 
 ---
 
