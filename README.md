@@ -98,7 +98,7 @@ npm run lint
 
 ## Demo
 
-You can check out a live demo of this Chat App [here](https://mahamadayazmomin.github.io/Chat-Application).
+You can check out a live demo of this Chat App [here](https://chating-application-weld.vercel.app).
 
 ---
 
